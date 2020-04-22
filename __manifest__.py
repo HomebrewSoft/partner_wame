@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'Partner wa.me',
-    'version': '12.0.1.0.0',
+    'version': '12.0.1.1.0',
     'author': 'HomebrewSoft',
     'website': 'https://gitlab.com/HomebrewSoft/misc/partner_wame',
     'depends': [
