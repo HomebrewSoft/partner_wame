@@ -2,7 +2,7 @@
 {
     'name': 'Partner wa.me',
     "summary": "Enables a button to open wa.me based on the partners phone and mobile.",
-    'version': '12.0.1.1.0',
+    'version': '12.0.1.2.0',
     'author': 'HomebrewSoft',
     'website': 'https://github.com/HomebrewSoft/partner_wame',
     'category': 'Human Resources',
