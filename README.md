@@ -1,0 +1,2 @@
+# partner_wame
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4656104214a244d29b467223dfac1e30)](https://app.codacy.com/gh/HomebrewSoft/partner_wame?utm_source=github.com&utm_medium=referral&utm_content=HomebrewSoft/partner_wame&utm_campaign=Badge_Grade_Dashboard)
